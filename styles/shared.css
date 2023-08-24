@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: cornsilk;
+}
+
+h1 {
+  font-size: 40px;
+  color: #353535;
+}
+
+h2 {
+  color: #353535;
+}
+
+p {
+  color: #353535;
+}
+
+a {
+  font-family: sans-serif;
+  color: rgb(113, 20, 220);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
